@@ -14,9 +14,33 @@
       "amountMoney": "100.00",
       "amountCredit": "100.00"
     },
-    { "user": "002", "phoneNumber": "0123456789", "currency": "THB", "amountMoney": "100.00", "amountCredit": "100.00"},
-    { "user": "003", "phoneNumber": "0123456789", "currency": "THB", "amountMoney": "100.00", "amountCredit": "100.00"},
-    { "user": "004", "phoneNumber": "0123456789", "currency": "THB", "amountMoney": "100.00", "amountCredit": "100.00"},
-    { "user": "005", "phoneNumber": "0123456789", "currency": "THB", "amountMoney": "100.00", "amountCredit": "100.00"}
-  ],
+    {
+      "user": "002,
+      "phoneNumber": "0123456789",
+      "currency": "THB",
+      "amountMoney": "100.00",
+      "amountCredit": "100.00"
+    },
+    {
+      "user": "003,
+      "phoneNumber": "0123456789",
+      "currency": "THB",
+      "amountMoney": "100.00",
+      "amountCredit": "100.00"
+    },
+    {
+      "user": "004,
+      "phoneNumber": "0123456789",
+      "currency": "THB",
+      "amountMoney": "100.00",
+      "amountCredit": "100.00"
+    },
+    {
+      "user": "005,
+      "phoneNumber": "0123456789",
+      "currency": "THB",
+      "amountMoney": "100.00",
+      "amountCredit": "100.00"
+    }
+  ]
 }
