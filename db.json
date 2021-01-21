@@ -1,5 +1,5 @@
 {
-  "datas": [
+  "posts": [
     { "user": 1, "phoneNumber": "0123456789", "currency": "THB", "amountMoney": "100.00", "amountCredit": 100.00},
     { "user": 2, "phoneNumber": "0123456789", "currency": "THB", "amountMoney": "100.00", "amountCredit": 100.00},
     { "user": 3, "phoneNumber": "0123456789", "currency": "THB", "amountMoney": "100.00", "amountCredit": 100.00},
